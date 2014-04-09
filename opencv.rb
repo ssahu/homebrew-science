@@ -2,8 +2,8 @@ require 'formula'
 
 class Opencv < Formula
   homepage 'http://opencv.org/'
-  url 'https://github.com/Itseez/opencv/archive/2.4.7.1.tar.gz'
-  sha1 'b6b0dd72356822a482ca3a27a7a88145aca6f34c'
+  url 'https://github.com/Itseez/opencv/archive/2.4.6.1.tar.gz'
+  sha1 'e015bd67218844b38daf3cea8aab505b592a66c0'
 
   option '32-bit'
   option 'with-qt',  'Build the Qt4 backend to HighGUI'
